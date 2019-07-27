@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APIPullParser</string>
+    <string name="weather_report">Weather Information</string>
+    <string name="Location">Location</string>
+    <string name="weather">weather</string>
+    <string name="humidity">Humidity</string>
+    <string name="temp">Temp</string>
+    <string name="curency">Curency</string>
+    <string name="pressure">Pressure</string>
+</resources>
